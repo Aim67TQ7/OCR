@@ -4,9 +4,9 @@ import os
 import asyncio
 
 # Import your agents
-from ocr_agent import OCRProcessingAgent
-from text_agent import TextExtractionAgent
-from table_agent import ProductionTableAgent
+# ocr_agent import OCRProcessingAgent
+#from text_agent import TextExtractionAgent
+#from table_agent import ProductionTableAgent
 
 app = Flask(__name__)
 CORS(app)
