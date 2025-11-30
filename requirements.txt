@@ -13,3 +13,4 @@ opencv-python
 python-docx
 beautifulsoup4
 jellyfish
+gunicorn==21.2.0
