@@ -1,0 +1,15 @@
+flask
+flask-cors
+pdfplumber
+camelot-py[cv]
+tabula-py
+pytesseract
+pdf2image
+easyocr
+paddleocr
+pandas
+pillow
+opencv-python
+python-docx
+beautifulsoup4
+jellyfish
